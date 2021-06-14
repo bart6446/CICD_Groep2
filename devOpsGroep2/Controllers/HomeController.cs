@@ -10,6 +10,7 @@ using Microsoft.AspNetCore.Authorization;
 
 namespace devOpsGroep2.Controllers
 {
+    //HALLO JUMBO COMMENTS
     [Authorize]
     public class HomeController : Controller
     {
